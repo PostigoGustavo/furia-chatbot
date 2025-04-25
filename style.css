@@ -93,4 +93,20 @@ body {
   .quick-buttons {
     margin-top: 5px;
   }
+
+  #clear-history-btn {
+    background-color: #cc0000;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+  
+  #clear-history-btn:hover {
+    background-color: #a30000;
+  }
+  
   
